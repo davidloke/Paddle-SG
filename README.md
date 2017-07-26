@@ -1,5 +1,16 @@
 # One Star Courses
 
+## [Course C51412414](https://pages.github.com/)
+Venue
+- PA Water-Venture Changi
+Course Dates
+- 20 Aug 2017 10:00 AM to 17:00 PM
+- 21 Aug 2017 10:00 AM to 17:00 PM
+Vacancies
+- 2
+Online Registration Close Date
+- 13 Aug 2017
+
 # Two Star Courses
 
 # Three Star Courses
