@@ -1,3 +1,5 @@
+Last Updated: 7 July 2015
+
 # One Star Courses
 _Classes are from 10am to 5pm everyday_ 
 
