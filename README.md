@@ -24,4 +24,4 @@ _All Classes from 10am to 5pm_
 
 |Course Code | Dates | Venue | Vacancy | Online Registration Close|
 |:---: | :---: | :---: | :---: | :---:|
-|-|-|-|-|-|
+|asd|asd|asd|asd|asd|
