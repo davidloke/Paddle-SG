@@ -1,5 +1,7 @@
-Last Updated: 27 Jul 2017
-Created by Lup Peng
+Last Updated: 28 Jul 2017 00:27<br />
+Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
+
+Navigation: [Upcoming Courses](index)
 
 # Water-Venture Rental Rates
 
