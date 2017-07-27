@@ -1,4 +1,6 @@
 Last Updated: 27 Jul 2017<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
+[Water-Venture Rental Rates](rental)
+
 
 # Tentative Expeditions
 
