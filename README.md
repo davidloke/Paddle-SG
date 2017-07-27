@@ -2,10 +2,9 @@ Last Updated: 27 Jul 2017
 
 # Tentative Expeditions
 
-Date | Route | Distance
-:---:|:---:|:---:
-N/A | N/A | N/A
-
+Date | Route | Distance | Status
+:---:|:---:|:---:|:---:
+N/A | N/A | N/A | N/A
 # One Star Courses
 _Classes from 10am to 5pm everyday_
 
