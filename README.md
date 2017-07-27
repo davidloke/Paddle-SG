@@ -1,14 +1,14 @@
-Last Updated: 28 Jul 2017 00:29<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)<br/><br/>Navigation: [Water-Venture Rental Rates](rental)
+Last Updated: 28 Jul 2017 00:30<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
 
 # Expeditions
+<br />[Water-Venture Rental Rates](rental)
 
 Date | Route | Distance | Status
 :---:|:---:|:---:|:---:
 N/A | N/A | N/A | N/A
 
 
-# One Star Courses
-_Classes from 10am to 5pm everyday_
+# One Star Courses<br />_Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy | Online Registration Close
 :---: | :---: | :---: | :---: | :---:
