@@ -44,10 +44,10 @@ Course Code | Dates | Venue | Vacancy | Online Registration Close
 Related Links:
 [SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/3-star-award/) -- [Handbook](http://scf.org.sg/RC6/hidden_content_scf/uploads/2014/11/RP-SCF-3-Star-Handbook.pdf)
 
-# Three Star Courses
+# Three Star Assessments
 _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy | Online Registration Close
 :---: | :---: | :---: | :---: | :---:
-[C26063184](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26063184)|27-Aug-17|PA Water-Venture (Changi)|27-Aug-17|20-Aug-17
+[C26063184](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26063184)|27-Aug-17|PA Water-Venture (Changi)|4|20-Aug-17
 
