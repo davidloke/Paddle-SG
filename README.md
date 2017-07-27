@@ -1,8 +1,6 @@
-Last Updated: 27 Jul 2017<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
-[Water-Venture Rental Rates](rental)
+Last Updated: 28 Jul 2017 00:27<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)<br/><br/>Navigation: [Water-Venture Rental Rates](rental)
 
-
-# Tentative Expeditions
+# Expeditions
 
 Date | Route | Distance | Status
 :---:|:---:|:---:|:---:
