@@ -41,7 +41,7 @@ Course Code | Dates | Venue | Vacancy | Online Registration Close
 [C26190525](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26190525)|08-Oct-17<br /><br />15-Oct-17<br /><br />22-Oct-17<br /><br />29-Oct-17<br /><br />|PA Water-Venture (Sembawang)|8|03-Oct-17
 
 Related Links:
-[SCF Syllabus]http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/3-star-award/) -- [Handbook](http://scf.org.sg/RC6/hidden_content_scf/uploads/2014/11/RP-SCF-3-Star-Handbook.pdf)
+[SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/3-star-award/) -- [Handbook](http://scf.org.sg/RC6/hidden_content_scf/uploads/2014/11/RP-SCF-3-Star-Handbook.pdf)
 
 # Three Star Courses
 _Classes from 10am to 5pm everyday_
