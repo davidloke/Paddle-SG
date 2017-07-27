@@ -1,6 +1,4 @@
-Last Updated: 27 Jul 2017
-
-Created by [Lup Peng](luppeng.wordpress.com)
+Last Updated: 27 Jul 2017<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
 
 # Tentative Expeditions
 
