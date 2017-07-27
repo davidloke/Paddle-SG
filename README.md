@@ -1,7 +1,8 @@
-Last Updated: 28 Jul 2017 00:38<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
+Last Updated: 28 Jul 2017 00:40<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
 
 # Expeditions
 Date | Route | Distance | Status
+
 :---:|:---:|:---:|:---:
 N/A | N/A | N/A | N/A
 
