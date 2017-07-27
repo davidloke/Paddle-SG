@@ -5,6 +5,8 @@ Last Updated: 27 Jul 2017
 Date | Route | Distance | Status
 :---:|:---:|:---:|:---:
 N/A | N/A | N/A | N/A
+
+
 # One Star Courses
 _Classes from 10am to 5pm everyday_
 
