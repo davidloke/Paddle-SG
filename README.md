@@ -1,5 +1,8 @@
 Last Updated: 31 Jul 2017 21:50<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
 
+### Related Links:
+[Water-Venture Rental Rates](rental) , [Upcoming Activities](activity)
+
 # Water Venture Activities
 
 Activity | Date | Venue | Vacancy | Online Registration Close
