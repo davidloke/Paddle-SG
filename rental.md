@@ -1,4 +1,4 @@
-Last Updated: 28 Jul 2017<br />
+Last Updated: 31 Jul 2017<br />
 Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
 
 Navigation: [Upcoming Kayaking Courses](index)
