@@ -1,6 +1,8 @@
 Last Updated: 28 Jul 2017<br />
 Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
 
+Navigation: [Upcoming Kayaking Courses](index)
+
 # Water-Venture Rental Rates
 
 Equipment|Duration|Full Time Student|Adult
@@ -10,4 +12,4 @@ KAYAK - Closed Deck /<br /> Sit-On-Top|Per Day|PAssion Card: $12<br />Others: $3
 Kayak Spray Cover <br />(min 2 Star holder) |Per Day|PAssion Card: $2<br />Others: $4|PAssion Card: $2<br />Others: $4
 
 Related Links:
-[Download full brochure](https://www.pa.gov.sg/~/media/PA-Corp/Our_Programmes/WV/WaterVenture_Brochure.ashx) , [Upcoming Kayaking Courses](index)
+[Download full brochure](https://www.pa.gov.sg/~/media/PA-Corp/Our_Programmes/WV/WaterVenture_Brochure.ashx)
