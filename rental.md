@@ -1,7 +1,7 @@
 Last Updated: 31 Jul 2017<br />
 Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
 
-Navigation: [Upcoming Kayaking Courses](index)
+Navigation: [Upcoming Kayaking Courses](index) | [Upcoming Kayak Activities](activity)
 
 # Water-Venture Rental Rates
 
