@@ -1,11 +1,11 @@
-Last Updated: 02 Aug 2017 02:09<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
+Last Updated: 02 Aug 2017 02:11<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
 
 **Navigation:** [Kayaking Courses](index) &#124; [PA Water-Venture Rental Rates](rental)
 
 # Upcoming Kayaking Activities
 
-Activity | Date | Venue | Vacancy | Online Registration Close
-:---:|:---:|:---:|:---:|:---:
+Activity | Date | Venue | Vacancy
+:---:|:---:|:---:|:---:
 [Kayak Expedition to Coney Island (20KM) (A26154852)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26154852)|27-Aug-17|PA Water-Venture (Changi)|17<br /><br /> _Register by: 20-Aug-17_
 [SEA DISCOVERY SERIES (CHANGI BEACH TO LOYANG) (A26117935)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26117935)|08-Oct-17|PA Water-Venture (Changi)|34<br /><br /> _Register by: 01-Oct-17_
 [Water Venture (Changi) Open House -Free Water Sports tryouts (A26218800)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26218800)|26-Aug-17|PA Water-Venture (Changi)|500<br /><br /> _Register by: 26-Aug-17_
