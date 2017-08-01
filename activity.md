@@ -1,8 +1,8 @@
-Last Updated: 02 Aug 2017 01:39<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
+Last Updated: 02 Aug 2017 02:03<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
 
-**Navigation:** [Upcoming Kayaking Courses](index) &#124; [Water-Venture Rental Rates](rental)
+**Navigation:** [Upcoming Kayaking Courses](index) &#124; [PA Water-Venture Rental Rates](rental)
 
-# Water Venture Activities
+# Upcoming Kayaking Activities
 
 Activity | Date | Venue | Vacancy | Online Registration Close
 :---:|:---:|:---:|:---:|:---:
@@ -22,7 +22,4 @@ Activity | Date | Venue | Vacancy | Online Registration Close
 [Pre-Course Assessment (Overseas Kayak 4 Star Award in 2018) (A26236274)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26236274)|03-Sep-17|PA Water-Venture (Sembawang)|16|27-Aug-17
 [Sea Discovery Series (Kayak Expedition to Seletar Island) (A26117562)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26117562)|11-Nov-17|PA Water-Venture (Sembawang)|30|07-Nov-17
 [Reservoir Discovery Series 2017 (Lower Seletar) (A25313145)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=25313145)|04-Nov-17|PA Water-Venture (Lower Seletar Reservoir)|40|28-Oct-17
-
-Related Links:
-[Upcoming Kayaking Courses](index)
 
