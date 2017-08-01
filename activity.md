@@ -1,6 +1,6 @@
-Last Updated: 02 Aug 2017 01:29<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
+Last Updated: 02 Aug 2017 01:39<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
 
-**Navigation:** [Upcoming Kayaking Courses](index) | [Water-Venture Rental Rates](rental)
+**Navigation:** [Upcoming Kayaking Courses](index) &#124; [Water-Venture Rental Rates](rental)
 
 # Water Venture Activities
 
@@ -9,6 +9,8 @@ Activity | Date | Venue | Vacancy | Online Registration Close
 [Kayak Expedition to Coney Island (20KM) (A26154852)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26154852)|27-Aug-17|PA Water-Venture (Changi)|17|20-Aug-17
 [SEA DISCOVERY SERIES (CHANGI BEACH TO LOYANG) (A26117935)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26117935)|08-Oct-17|PA Water-Venture (Changi)|34|01-Oct-17
 [Water Venture (Changi) Open House -Free Water Sports tryouts (A26218800)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26218800)|26-Aug-17|PA Water-Venture (Changi)|500|26-Aug-17
+[Paddles on Wave 2017 (1st session 8am-1pm) (A26237620)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26237620)|03-Sep-17|PA Water-Venture (East Coast)|200|28-Aug-17
+[Paddles on Wave 2017 (2nd session 1pm-6pm) (A26237673)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26237673)|03-Sep-17|PA Water-Venture (East Coast)|300|28-Aug-17
 [Kayak Venture Training #3 - WV Pasir Ris - OBS - Changi  (A25982312)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=25982312)|20-Aug-17|PA Water-Venture (Pasir Ris)||15-Aug-17
 [Mangrove Discovery Series (A25946352)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=25946352)|19-Aug-17|PA Water-Venture (Pasir Ris)|12|05-Aug-17
 [Sea Discovery Series (Coney Island)  (A26126141)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26126141)|21-Oct-17|PA Water-Venture (Pasir Ris)|30|15-Oct-17
