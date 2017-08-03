@@ -1,4 +1,4 @@
-Last Updated: 03 Aug 2017 16:00<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
+Last Updated: 03 Aug 2017 18:00<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
 
 **Navigation:** [Kayaking Activities](activity) &#124; [PA Water-Venture Rental Rates](rental)
 
@@ -19,8 +19,8 @@ _Classes from 10am to 5pm everyday_
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
 [C26197820](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26197820)|02-Sep-17<br /><br />03-Sep-17|PA Water-Venture (Sembawang)|9<br /><br /> _(Register by: 29-Aug-17)_
-[C26241017](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26241017)|02-Sep-17<br /><br />03-Sep-17|PA Water-Venture (Pasir Ris)|9<br /><br /> _(Register by: 26-Aug-17)_
-[C26185939](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26185939)|16-Sep-17<br /><br />17-Sep-17|PA Water-Venture (Changi)|7<br /><br /> _(Register by: 10-Sep-17)_
+[C26241017](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26241017)|02-Sep-17<br /><br />03-Sep-17|PA Water-Venture (Pasir Ris)|7<br /><br /> _(Register by: 26-Aug-17)_
+[C26185939](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26185939)|16-Sep-17<br /><br />17-Sep-17|PA Water-Venture (Changi)|6<br /><br /> _(Register by: 10-Sep-17)_
 [C26197832](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26197832)|16-Sep-17<br /><br />17-Sep-17|PA Water-Venture (Sembawang)|9<br /><br /> _(Register by: 12-Sep-17)_
 
 Related Links:
@@ -45,7 +45,6 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C26176434](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26176434)|16-Sep-17<br /><br />17-Sep-17<br /><br />23-Sep-17<br /><br />24-Sep-17|PA Water-Venture (Changi)|2<br /><br /> _(Register by: 10-Sep-17)_
 [C26190525](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26190525)|08-Oct-17<br /><br />15-Oct-17<br /><br />22-Oct-17<br /><br />29-Oct-17|PA Water-Venture (Sembawang)|8<br /><br /> _(Register by: 03-Oct-17)_
 
 Related Links:
@@ -56,5 +55,5 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C26063184](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26063184)|27-Aug-17|PA Water-Venture (Changi)|3<br /><br /> _(Register by: 20-Aug-17)_
+[C26063184](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26063184)|27-Aug-17|PA Water-Venture (Changi)|2<br /><br /> _(Register by: 20-Aug-17)_
 
