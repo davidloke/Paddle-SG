@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+Last Updated: 06 Aug 2017 22:43<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
+=======
 Last Updated: 06 Aug 2017 22:33<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
+>>>>>>> d377e2e619c176ac11689108f7de8d23b1ae3189
 
 **Navigation:** Kayaking Courses &#124; [Kayaking Activities](activity) &#124; [PA Water-Venture Rental Rates](rental)
 
