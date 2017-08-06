@@ -1,4 +1,4 @@
-aLast Updated: 04 Aug 2017 16:27<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
+aaLast Updated: 04 Aug 2017 16:27<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
 
 **Navigation:** [Kayaking Activities](activity) &#124; [PA Water-Venture Rental Rates](rental)
 
