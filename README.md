@@ -1,6 +1,6 @@
-Last Updated: 06 Aug 2017 17:13<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
+Last Updated: 06 Aug 2017 14:25<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
 
-**Navigation:** [Kayaking Activities](activity) &#124; [PA Water-Venture Rental Rates](rental)
+**Navigation:** Kayaking Courses &#124; [Kayaking Activities](activity) &#124; [PA Water-Venture Rental Rates](rental)
 
 # Upcoming Kayaking Courses
 
@@ -11,7 +11,7 @@ Date | Route | Distance | Status
 N/A | N/A | N/A | N/A
 
 Related Links:
-[Water-Venture Rental Rates](rental)
+[PA Water-Venture Rental Rates](rental)
 
 ## One Star Courses
 _Classes from 10am to 5pm everyday_
