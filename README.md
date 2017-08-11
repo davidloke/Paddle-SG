@@ -1,4 +1,4 @@
-Last Updated: 11 Aug 2017 12:08<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
+Last Updated: 11 Aug 2017 14:09<br />Created by [Lup Peng](https://sg.linkedin.com/in/lup-peng-loke)
 
 **Navigation:** Kayaking Courses &#124; [Kayaking Activities](activity) &#124; [PA Water-Venture Rental Rates](rental)
 
@@ -18,7 +18,7 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C26197820](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26197820)|02-Sep-17<br /><br />03-Sep-17|PA Water-Venture (Sembawang)|9<br /><br /> _(Register by: 29-Aug-17)_
+[C26197820](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26197820)|02-Sep-17<br /><br />03-Sep-17|PA Water-Venture (Sembawang)|8<br /><br /> _(Register by: 29-Aug-17)_
 [C26262912](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26262912)|10-Sep-17<br /><br />17-Sep-17|PA Water-Venture (Pasir Ris)|10<br /><br /> _(Register by: 03-Sep-17)_
 [C26185939](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26185939)|16-Sep-17<br /><br />17-Sep-17|PA Water-Venture (Changi)|2<br /><br /> _(Register by: 10-Sep-17)_
 [C26197832](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26197832)|16-Sep-17<br /><br />17-Sep-17|PA Water-Venture (Sembawang)|2<br /><br /> _(Register by: 12-Sep-17)_
@@ -36,7 +36,7 @@ Course Code | Dates | Venue | Vacancy
 [C26063165](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26063165)|12-Aug-17<br /><br />13-Aug-17<br /><br />19-Aug-17|PA Water-Venture (Changi)|4<br /><br /> _(Register by: 11-Aug-17)_
 [C26254613](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26254613)|09-Sep-17<br /><br />10-Sep-17<br /><br />16-Sep-17|PA Water-Venture (Sembawang)|10<br /><br /> _(Register by: 05-Sep-17)_
 [C26186077](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26186077)|09-Sep-17<br /><br />10-Sep-17<br /><br />16-Sep-17|PA Water-Venture (Changi)|4<br /><br /> _(Register by: 03-Sep-17)_
-[C26186099](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26186099)|23-Sep-17<br /><br />24-Sep-17<br /><br />30-Sep-17|PA Water-Venture (Changi)|9<br /><br /> _(Register by: 17-Sep-17)_
+[C26186099](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26186099)|23-Sep-17<br /><br />24-Sep-17<br /><br />30-Sep-17|PA Water-Venture (Changi)|8<br /><br /> _(Register by: 17-Sep-17)_
 
 Related Links:
 [SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/2-star-award/) &#124; [Handbook](http://scf.org.sg/RC6/hidden_content_scf/uploads/2014/11/RP-SCF-2-Star-Handbook.pdf)
