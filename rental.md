@@ -1,4 +1,4 @@
-**Navigation:** [Kayaking Courses](index) &#124; Kayaking Activities &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental)
+**Navigation:** [Kayaking Courses](index) &#124; [Kayaking Activities](activity) &#124; [Kayaking Expeditions](expedition) &#124; Kayak Rental Rates
 
 # PA Water-Venture Rental Rates
 
