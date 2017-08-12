@@ -6,4 +6,4 @@ Find the latest courses and activities. Meet new friends and go on an adventure.
 
 Get into a kayak and paddle your way to happiness. 
 
-_This site is updated everyday from 10am to 6pm, at bihourly intervals._
+_This site is currently updated everyday from 10am to 6pm, at bihourly intervals._
