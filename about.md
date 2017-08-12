@@ -5,3 +5,5 @@ The aim of paddlesg.com is to help build up and foster the Singapore paddling co
 Find the latest courses and activities. Meet new friends and go on an adventure. 
 
 Get into a kayak and paddle your way to happiness. 
+
+_This site is updated everyday from 10am to 6pm, at bihourly intervals._
