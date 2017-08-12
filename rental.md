@@ -9,4 +9,4 @@ KAYAK - Closed Deck /<br /> Sit-On-Top|Per Day|PAssion Card: $12<br /><br />Othe
 Kayak Spray Cover <br />(min 2 Star holder) |Per Day|PAssion Card: $2<br /><br />Others: $4|PAssion Card: $2<br /><br />Others: $4
 
 Related Links:
-[Download full brochure](https://www.pa.gov.sg/~/media/PA-Corp/Our_Programmes/WV/WaterVenture_Brochure.ashx)
+[Download full PA Water-Venture brochure](https://www.pa.gov.sg/~/media/PA-Corp/Our_Programmes/WV/WaterVenture_Brochure.ashx)
