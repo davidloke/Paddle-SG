@@ -1,6 +1,6 @@
 **Navigation:** [Kayaking Courses](index) &#124; Kayaking Activities &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental)
 
-_Last Updated: 13 Aug 2017 21:33_
+_Last Updated: 13 Aug 2017 23:01_
 # Upcoming Kayaking Activities
 
 Activity | Date | Venue | Vacancy
@@ -10,7 +10,7 @@ Activity | Date | Venue | Vacancy
 [Water Venture (Changi) Open House -Free Water Sports tryouts (A26218800)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26218800)|26-Aug-17|PA Water-Venture (Changi)|369<br /><br /> _(Register by: 26-Aug-17)_
 [Kayak Expedition to Coney Island (20KM) (A26154852)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26154852)|27-Aug-17|PA Water-Venture (Changi)|16<br /><br /> _(Register by: 20-Aug-17)_
 [Paddles on Wave 2017 (1st session 8am-1pm) (A26237620)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26237620)|03-Sep-17|PA Water-Venture (East Coast)|183<br /><br /> _(Register by: 28-Aug-17)_
-[Paddles on Wave 2017 (2nd session 1pm-6pm) (A26237673)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26237673)|03-Sep-17|PA Water-Venture (East Coast)|284<br /><br /> _(Register by: 28-Aug-17)_
+[Paddles on Wave 2017 (2nd session 1pm-6pm) (A26237673)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26237673)|03-Sep-17|PA Water-Venture (East Coast)|282<br /><br /> _(Register by: 28-Aug-17)_
 [Pre-Course Assessment (Overseas Kayak 4 Star Award in 2018) (A26236274)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26236274)|03-Sep-17|PA Water-Venture (Sembawang)|14<br /><br /> _(Register by: 27-Aug-17)_
 [Southern Island Expedition 2017 (2D1N) (A26254918)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26254918)|09-Sep-17|PA Water-Venture (Sembawang)|39<br /><br /> _(Register by: 28-Aug-17)_
 [Mangrove Discovery Series (Khatib Bongsu)  (A26197917)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26197917)|23-Sep-17|PA Water-Venture (Sembawang)|15<br /><br /> _(Register by: 19-Sep-17)_

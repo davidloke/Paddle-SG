@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Activities](activity) &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental)
 
-_Last Updated: 13 Aug 2017 21:33_
+_Last Updated: 13 Aug 2017 23:01_
 # Upcoming Kayaking Courses
 
 ## One Star Courses
@@ -21,8 +21,6 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C26035480](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26035480)|05-Aug-17<br /><br />12-Aug-17<br /><br />19-Aug-17|PA Water-Venture (Changi)|3<br /><br /> _(Register by: 04-Aug-17)_
-[C26063165](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26063165)|12-Aug-17<br /><br />13-Aug-17<br /><br />19-Aug-17|PA Water-Venture (Changi)|4<br /><br /> _(Register by: 11-Aug-17)_
 [C26254613](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26254613)|09-Sep-17<br /><br />10-Sep-17<br /><br />16-Sep-17|PA Water-Venture (Sembawang)|10<br /><br /> _(Register by: 05-Sep-17)_
 [C26186077](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26186077)|09-Sep-17<br /><br />10-Sep-17<br /><br />16-Sep-17|PA Water-Venture (Changi)|1<br /><br /> _(Register by: 03-Sep-17)_
 [C26186099](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26186099)|23-Sep-17<br /><br />24-Sep-17<br /><br />30-Sep-17|PA Water-Venture (Changi)|8<br /><br /> _(Register by: 17-Sep-17)_
