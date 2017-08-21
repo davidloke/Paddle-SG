@@ -1,11 +1,11 @@
 **Navigation:** [Kayaking Courses](index) &#124; Kayaking Activities &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental)
 
-_Last Updated: 21 Aug 2017 16:10_
+_Last Updated: 21 Aug 2017 18:08_
 # Upcoming Kayaking Activities
 
 Activity | Date | Venue | Vacancy
 :---:|:---:|:---:|:---:
-[Water Venture (Changi) Open House -Free Water Sports tryouts (A26218800)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26218800)|26-Aug-17|PA Water-Venture (Changi)|295<br /><br /> _(Register by: 26-Aug-17)_
+[Water Venture (Changi) Open House -Free Water Sports tryouts (A26218800)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26218800)|26-Aug-17|PA Water-Venture (Changi)|292<br /><br /> _(Register by: 26-Aug-17)_
 [Kayak Expedition to Coney Island (20KM) (A26154852)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26154852)|27-Aug-17|PA Water-Venture (Changi)|6<br /><br /> _(Register by: 20-Aug-17)_
 [Paddles on Wave 2017 (1st session 8am-1pm) (A26237620)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26237620)|03-Sep-17|PA Water-Venture (East Coast)|146<br /><br /> _(Register by: 28-Aug-17)_
 [Paddles on Wave 2017 (2nd session 1pm-6pm) (A26237673)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26237673)|03-Sep-17|PA Water-Venture (East Coast)|268<br /><br /> _(Register by: 28-Aug-17)_
