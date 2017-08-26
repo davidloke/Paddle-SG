@@ -1,6 +1,6 @@
 **Navigation:** [Kayaking Courses](index) &#124; Kayaking Activities &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental)
 
-_Last Updated: 26 Aug 2017 16:10_
+_Last Updated: 26 Aug 2017 18:07_
 # Upcoming Kayaking Activities
 
 Activity | Date | Venue | Vacancy
@@ -16,7 +16,7 @@ Activity | Date | Venue | Vacancy
 [Injury Prevention & Rehabilitation (A26241661)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26241661)|30-Sep-17|PA Water-Venture (East Coast)|15<br /><br /> _(Register by: 29-Sep-17)_
 [Pre-Course Assessment (Overseas Kayak 4 Star Award in 2018) (A26236438)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26236438)|01-Oct-17|PA Water-Venture (Sembawang)|13<br /><br /> _(Register by: 24-Sep-17)_
 [SEA DISCOVERY SERIES (CHANGI BEACH TO LOYANG) (A26117935)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26117935)|08-Oct-17|PA Water-Venture (Changi)|34<br /><br /> _(Register by: 01-Oct-17)_
-[Northern Kayaking Expedition (2D1N) 2017 (A26289488)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26289488)|14-Oct-17|PA Water-Venture (Changi)|46<br /><br /> _(Register by: 30-Sep-17)_
+[Northern Kayaking Expedition (2D1N) 2017 (A26289488)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26289488)|14-Oct-17|PA Water-Venture (Changi)|45<br /><br /> _(Register by: 30-Sep-17)_
 [Sea Discovery Series (Coney Island)  (A26126141)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26126141)|21-Oct-17|PA Water-Venture (Pasir Ris)|27<br /><br /> _(Register by: 15-Oct-17)_
 [Reservoir Discovery Series 2017 (Lower Seletar) (A25313145)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=25313145)|04-Nov-17|PA Water-Venture (Lower Seletar Reservoir)|40<br /><br /> _(Register by: 28-Oct-17)_
 [Sea Discovery Series (Kayak Expedition to Seletar Island) (A26117562)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26117562)|11-Nov-17|PA Water-Venture (Sembawang)|30<br /><br /> _(Register by: 07-Nov-17)_
