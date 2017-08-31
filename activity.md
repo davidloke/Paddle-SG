@@ -1,11 +1,11 @@
 **Navigation:** [Kayaking Courses](index) &#124; Kayaking Activities &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental)
 
-_Last Updated: 31 Aug 2017 14:07_
+_Last Updated: 31 Aug 2017 16:08_
 # Upcoming Kayaking Activities
 
 Activity | Date | Venue | Vacancy
 :---:|:---:|:---:|:---:
-[Paddles on Wave 2017 (1st session 8am-1pm) (A26237620)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26237620)|03-Sep-17|PA Water-Venture (East Coast)|62<br /><br /> _(Register by: 01-Sep-17)_
+[Paddles on Wave 2017 (1st session 8am-1pm) (A26237620)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26237620)|03-Sep-17|PA Water-Venture (East Coast)|58<br /><br /> _(Register by: 01-Sep-17)_
 [Paddles on Wave 2017 (2nd session 1pm-6pm) (A26237673)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26237673)|03-Sep-17|PA Water-Venture (East Coast)|207<br /><br /> _(Register by: 01-Sep-17)_
 [Pre-Course Assessment (Overseas Kayak 4 Star Award in 2018) (A26236274)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26236274)|03-Sep-17|PA Water-Venture (Sembawang)|14<br /><br /> _(Register by: 27-Aug-17)_
 [Southern Island Expedition 2017 (2D1N) (A26254918)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26254918)|09-Sep-17|PA Water-Venture (Sembawang)|35<br /><br /> _(Register by: 28-Aug-17)_
