@@ -1,13 +1,10 @@
 **Navigation:** [Kayaking Courses](index) &#124; Kayaking Activities &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental)
 
-_Last Updated: 02 Sep 2017 20:15_
+_Last Updated: 04 Sep 2017 10:08_
 # Upcoming Kayaking Activities
 
 Activity | Date | Venue | Vacancy
 :---:|:---:|:---:|:---:
-[Paddles on Wave 2017 (1st session 8am-1pm) (A26237620)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26237620)|03-Sep-17|PA Water-Venture (East Coast)|57<br /><br /> _(Register by: 01-Sep-17)_
-[Paddles on Wave 2017 (2nd session 1pm-6pm) (A26237673)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26237673)|03-Sep-17|PA Water-Venture (East Coast)|193<br /><br /> _(Register by: 01-Sep-17)_
-[Pre-Course Assessment (Overseas Kayak 4 Star Award in 2018) (A26236274)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26236274)|03-Sep-17|PA Water-Venture (Sembawang)|14<br /><br /> _(Register by: 27-Aug-17)_
 [Southern Island Expedition 2017 (2D1N) (A26254918)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26254918)|09-Sep-17|PA Water-Venture (Sembawang)|30<br /><br /> _(Register by: 28-Aug-17)_
 [Ubin Mangrove Expedition  (A26168905)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26168905)|23-Sep-17|PA Water-Venture (Changi)|20<br /><br /> _(Register by: 17-Sep-17)_
 [Climb/Abseiling Tryout, Motivational Talk by Khoo Swee Chiow (A26323900)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26323900)|23-Sep-17|PA Water-Venture (Pasir Ris)|29<br /><br /> _(Register by: 21-Sep-17)_
