@@ -1,13 +1,13 @@
 **Navigation:** [Kayaking Courses](index) &#124; Kayaking Activities &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental)
 
-_Last Updated: 04 Sep 2017 14:07_
+_Last Updated: 04 Sep 2017 16:08_
 # Upcoming Kayaking Activities
 
 Activity | Date | Venue | Vacancy
 :---:|:---:|:---:|:---:
 [Southern Island Expedition 2017 (2D1N) (A26254918)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26254918)|09-Sep-17|PA Water-Venture (Sembawang)|30<br /><br /> _(Register by: 28-Aug-17)_
 [Ubin Mangrove Expedition  (A26168905)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26168905)|23-Sep-17|PA Water-Venture (Changi)|20<br /><br /> _(Register by: 17-Sep-17)_
-[Climb/Abseiling Tryout, Motivational Talk by Khoo Swee Chiow (A26323900)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26323900)|23-Sep-17|PA Water-Venture (Pasir Ris)|29<br /><br /> _(Register by: 21-Sep-17)_
+[Climb/Abseiling Tryout, Motivational Talk by Khoo Swee Chiow (A26323900)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26323900)|23-Sep-17|PA Water-Venture (Pasir Ris)|28<br /><br /> _(Register by: 21-Sep-17)_
 [Mangrove Discovery Series (Khatib Bongsu)  (A26197917)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26197917)|23-Sep-17|PA Water-Venture (Sembawang)|11<br /><br /> _(Register by: 19-Sep-17)_
 [Kayaking Expedition to Pulau Ketam, Ubin Mangrove (A26306609)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26306609)|24-Sep-17|PA Water-Venture (Pasir Ris)|13<br /><br /> _(Register by: 17-Sep-17)_
 [Injury Prevention & Rehabilitation (A26241661)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26241661)|30-Sep-17|PA Water-Venture (East Coast)|15<br /><br /> _(Register by: 29-Sep-17)_
