@@ -1,12 +1,11 @@
 **Navigation:** [Kayaking Courses](index) &#124; Kayaking Activities &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental)
 
-_Last Updated: 05 Sep 2017 18:07_
+_Last Updated: 06 Sep 2017 10:07_
 # Upcoming Kayaking Activities
 
 Activity | Date | Venue | Vacancy
 :---:|:---:|:---:|:---:
 [Southern Island Expedition 2017 (2D1N) (A26254918)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26254918)|09-Sep-17|PA Water-Venture (Sembawang)|30<br /><br /> _(Register by: 28-Aug-17)_
-[Ubin Mangrove Expedition  (A26168905)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26168905)|23-Sep-17|PA Water-Venture (Changi)|19<br /><br /> _(Register by: 17-Sep-17)_
 [Climb/Abseiling Tryout, Motivational Talk by Khoo Swee Chiow (A26323900)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26323900)|23-Sep-17|PA Water-Venture (Pasir Ris)|25<br /><br /> _(Register by: 21-Sep-17)_
 [Mangrove Discovery Series (Khatib Bongsu)  (A26197917)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26197917)|23-Sep-17|PA Water-Venture (Sembawang)|11<br /><br /> _(Register by: 19-Sep-17)_
 [Kayaking Expedition to Pulau Ketam, Ubin Mangrove (A26306609)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26306609)|24-Sep-17|PA Water-Venture (Pasir Ris)|13<br /><br /> _(Register by: 17-Sep-17)_
@@ -18,5 +17,5 @@ Activity | Date | Venue | Vacancy
 [Reservoir Discovery Series 2017 (Lower Seletar) (A25313145)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=25313145)|04-Nov-17|PA Water-Venture (Lower Seletar Reservoir)|40<br /><br /> _(Register by: 28-Oct-17)_
 [Sea Discovery Series (Kayak Expedition to Seletar Island) (A26117562)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26117562)|11-Nov-17|PA Water-Venture (Sembawang)|30<br /><br /> _(Register by: 07-Nov-17)_
 [Mangrove Discovery Series (Khatib Bongsu)  (A25944998)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=25944998)|19-Nov-17|PA Water-Venture (Sembawang)|26<br /><br /> _(Register by: 19-Nov-17)_
-[Mangrove Discovery Series (Sungei Simpang) (A25944928)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=25944928)|09-Dec-17|PA Water-Venture (Sembawang)|29<br /><br /> _(Register by: 09-Dec-17)_
+[Mangrove Discovery Series (Sungei Simpang) (A25944928)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=25944928)|09-Dec-17|PA Water-Venture (Sembawang)|27<br /><br /> _(Register by: 09-Dec-17)_
 
