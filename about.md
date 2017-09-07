@@ -1,4 +1,4 @@
-**Navigation:** [Kayaking Courses](index) &#124; [Kayaking Activities](activity) &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental)
+**Navigation:** [Kayaking Courses](index) &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
 The aim of paddlesg.com is to help foster the Singapore paddling community by consolidating information on upcoming courses and activities in one central location. 
 
