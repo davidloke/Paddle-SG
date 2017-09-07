@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 08 Sep 2017 01:12_
+_Last Updated: 08 Sep 2017 01:21_
 # Upcoming Kayaking Courses
 
 ## One Star Courses
@@ -46,4 +46,11 @@ _Classes from 10am to 5pm everyday_
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
 No upcoming courses yet|-|-|- 
+
+## Four Star Courses
+_Occurs annually, with compulsory pre-assessment and Sea Kayak Orientation Program (SKOP)_
+
+Course Code | Dates | Venue | Vacancy 
+:---: | :---: | :---: | :---: 
+[Pre-Course Assessment (Overseas Kayak 4 Star Award in 2018) (A26236438)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26236438)|01-Oct-17|PA Water-Venture (Sembawang)|13<br /><br /> _(Register by: 24-Sep-17)_
 
