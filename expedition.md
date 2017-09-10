@@ -1,11 +1,11 @@
 **Navigation:** [Kayaking Courses](index) &#124; Kayaking Expeditions &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 10 Sep 2017 16:07_
+_Last Updated: 10 Sep 2017 18:06_
 # Upcoming Kayak Expeditions
 
 Expedition | Date | Venue | Vacancy
 :---:|:---:|:---:|:---:
-[Mangrove Discovery Series (Khatib Bongsu)  (A26197917)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26197917)|23-Sep-17|PA Water-Venture (Sembawang)|11<br /><br /> _(Register by: 19-Sep-17)_
+[Mangrove Discovery Series (Khatib Bongsu)  (A26197917)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26197917)|23-Sep-17|PA Water-Venture (Sembawang)|10<br /><br /> _(Register by: 19-Sep-17)_
 [Kayaking Expedition to Pulau Ketam, Ubin Mangrove (A26306609)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26306609)|24-Sep-17|PA Water-Venture (Pasir Ris)|10<br /><br /> _(Register by: 17-Sep-17)_
 [SEA DISCOVERY SERIES (CHANGI BEACH TO LOYANG) (A26117935)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26117935)|08-Oct-17|PA Water-Venture (Changi)|17<br /><br /> _(Register by: 01-Oct-17)_
 [Northern Kayaking Expedition (2D1N) 2017 (A26289488)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26289488)|14-Oct-17<br /><br />15-Oct-17|PA Water-Venture (Changi)|39<br /><br /> _(Register by: 30-Sep-17)_
