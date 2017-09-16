@@ -2,7 +2,7 @@
 
 _Last Updated: 16 Sep 2017 16:07_
 # Upcoming Kayaking Courses
-_Only courses with vacancy are shown_
+_Only courses with vacancies are shown_
 
 ## One Star Courses
 _Classes from 10am to 5pm everyday_
