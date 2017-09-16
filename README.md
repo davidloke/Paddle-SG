@@ -1,9 +1,10 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 16 Sep 2017 16:45_
+_Last Updated: 16 Sep 2017 17:19_
 # Upcoming Kayaking Courses
+_Only courses with vacancies are shown_
 
-_Only courses with vacancies are shown_## One Star Courses
+## One Star Courses
 _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
