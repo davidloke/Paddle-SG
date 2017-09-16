@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 16 Sep 2017 12:08_
+_Last Updated: 16 Sep 2017 14:07_
 # Upcoming Kayaking Courses
 
 ## One Star Courses
@@ -12,7 +12,7 @@ Course Code | Dates | Venue | Vacancy
 [C26186011](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26186011)|23-Sep-17<br /><br />24-Sep-17|PA Water-Venture (Changi)|3<br /><br /> _(Register by: 17-Sep-17)_
 [C26228407](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26228407)|23-Sep-17<br /><br />24-Sep-17|PA Water-Venture (Sembawang)|3<br /><br /> _(Register by: 19-Sep-17)_
 [C26266867](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26266867)|30-Sep-17<br /><br />01-Oct-17|PA Water-Venture (Changi)|1<br /><br /> _(Register by: 23-Sep-17)_
-[C26349224](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26349224)|07-Oct-17<br /><br />08-Oct-17|PA Water-Venture (Changi)|6<br /><br /> _(Register by: 30-Sep-17)_
+[C26349224](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26349224)|07-Oct-17<br /><br />08-Oct-17|PA Water-Venture (Changi)|4<br /><br /> _(Register by: 30-Sep-17)_
 [C26332250](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26332250)|07-Oct-17<br /><br />08-Oct-17|PA Water-Venture (Pasir Ris)|6<br /><br /> _(Register by: 01-Oct-17)_
 [C26349213](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26349213)|14-Oct-17<br /><br />15-Oct-17|PA Water-Venture (Changi)|7<br /><br /> _(Register by: 08-Oct-17)_
 
