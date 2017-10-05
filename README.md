@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 05 Oct 2017 12:06_
+_Last Updated: 05 Oct 2017 14:06_
 # Upcoming Kayaking Courses
 _Only courses with vacancies are shown_
 
@@ -46,7 +46,7 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C26449829](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26449829)|08-Oct-17|PA Water-Venture (Sembawang)|6<br /><br /> _(Register by: 04-Oct-17)_
+[C26449829](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26449829)|08-Oct-17|PA Water-Venture (Sembawang)|5<br /><br /> _(Register by: 04-Oct-17)_
 
 ## Four Star Courses
 _Occurs annually, with compulsory pre-assessment and Sea Kayak Orientation Program (SKOP)_
