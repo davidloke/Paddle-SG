@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 08 Oct 2017 12:06_
+_Last Updated: 08 Oct 2017 14:06_
 # Upcoming Kayaking Courses
 _Only courses with vacancies are shown_
 
@@ -9,7 +9,7 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C26429136](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26429136)|14-Oct-17<br /><br />15-Oct-17|PA Water-Venture (Sembawang)|6<br /><br /> _(Register by: 10-Oct-17)_
+[C26429136](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26429136)|14-Oct-17<br /><br />15-Oct-17|PA Water-Venture (Sembawang)|4<br /><br /> _(Register by: 10-Oct-17)_
 [C26469080](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26469080)|04-Nov-17<br /><br />05-Nov-17|PA Water-Venture (Sembawang)|10<br /><br /> _(Register by: 28-Oct-17)_
 [C26401829](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26401829)|04-Nov-17<br /><br />05-Nov-17|PA Water-Venture (Changi)|2<br /><br /> _(Register by: 29-Oct-17)_
 [C26468393](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26468393)|11-Nov-17<br /><br />12-Nov-17|PA Water-Venture (Pasir Ris)|8<br /><br /> _(Register by: 05-Nov-17)_
