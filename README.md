@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 21 Oct 2017 03:14_
+_Last Updated: 21 Oct 2017 03:50_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -53,10 +53,15 @@ Course Code | Dates | Venue | Vacancy
 :---: | :---: | :---: | :---: 
 No upcoming courses yet|-|-|- 
 
+Related Links:
+[SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/4-star-award-riversea/)
 
 ## Level 1 Coach Training Courses
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
 No upcoming courses yet|-|-|- 
+
+Related Links:
+[SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-coaching-course/menu-parent-recreational/coaching-level-1-r/)
 
