@@ -1,14 +1,13 @@
-Sat 21 Oct 03:09:40 +08 2017
+Sat 21 Oct 03:56:01 +08 2017
 Processing Kayak Activities...
-Start of GetActivities.py
-End of GetActivities.py
+Getting Kayak Activities
+Finished Processing Kayak Activities
 Processing Kayak Courses...
-Start of GetCourseDate.py
+Getting Kayak Course Dates
 Processing 1star courses
 Processing 2star courses
 Processing 3star courses
 Processing 3star assessment
 Processing level 1 coaching courses
-End of GetCourseDate.py
+Finished Processing Kayak Course Dates
 Producing webpages...
-Sat 21 Oct 03:14:16 +08 2017
