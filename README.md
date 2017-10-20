@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 21 Oct 2017 01:55_
+_Last Updated: 21 Oct 2017 02:02_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -45,6 +45,7 @@ Course Code | Dates | Venue | Vacancy
 :---: | :---: | :---: | :---: 
 No upcoming courses yet|-|-|- 
 
+
 ## Four Star Courses
 _Occurs annually, with compulsory pre-assessment and Sea Kayak Orientation Program (SKOP)_
 
@@ -52,8 +53,10 @@ Course Code | Dates | Venue | Vacancy
 :---: | :---: | :---: | :---: 
 No upcoming courses yet|-|-|- 
 
-## Level 1 Coach Training Course
+
+## Level 1 Coach Training Courses
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
 No upcoming courses yet|-|-|- 
+
 
