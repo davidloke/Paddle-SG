@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 21 Oct 2017 02:10_
+_Last Updated: 21 Oct 2017 02:11_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -55,8 +55,6 @@ No upcoming courses yet|-|-|-
 
 
 ## One Star Courses
-_Classes from 10am to 5pm everyday_
-
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
 [C26468393](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26468393)|11-Nov-17<br /><br />12-Nov-17|PA Water-Venture (Pasir Ris)|1<br /><br /> _(Register by: 05-Nov-17)_
