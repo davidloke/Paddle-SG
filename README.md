@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 24 Oct 2017 18:04_
+_Last Updated: 25 Oct 2017 10:04_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -19,7 +19,7 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C26332202](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26332202)|11-Nov-17<br /><br />12-Nov-17<br /><br />18-Nov-17|PA Water-Venture (Pasir Ris)|5<br /><br /> _(Register by: 05-Nov-17)_
+[C26332202](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26332202)|11-Nov-17<br /><br />12-Nov-17<br /><br />18-Nov-17|PA Water-Venture (Pasir Ris)|2<br /><br /> _(Register by: 05-Nov-17)_
 [C26469113](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26469113)|18-Nov-17<br /><br />19-Nov-17<br /><br />25-Nov-17|PA Water-Venture (Sembawang)|8<br /><br /> _(Register by: 11-Nov-17)_
 
 Related Links:
