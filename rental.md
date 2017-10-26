@@ -16,7 +16,6 @@ Related Links:
 # Singapore Sports Hub - Water Sports Centre 
 _General Operating Hours: 7am to 7pm (last rental at 5pm)_
 
-Equipment|Duration|Full Time Student|Adult
-:---:|:---:|:------:|:------:
 Equipment|Duration|Child/Student/Senior Citizen/Persons with Disabilities|Adult
+:---:|:---:|:------:|:------:
 KAYAK - Closed Deck /<br /> Sit-On-Top|2 Hours|Local Resident: $8<br /><br />Standard: $10.50|Local Resident: $12<br /><br />Standard: $15.50
