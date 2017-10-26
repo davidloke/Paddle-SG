@@ -18,6 +18,7 @@ _General Operating Hours: 7am - 7pm (last rental at 5pm)_
 
 ## Non-Peak Hours 
 _Weekdays: 7am - 5pm_
+
 Equipment|Duration|Child/<br />Student/<br />Senior Citizen/<br />Persons with Disabilities|Adult
 :---:|:---:|:------:|:------:
 KAYAK - Closed Deck /<br /> Sit-On-Top|2 Hours|Local Resident: $8<br /><br />Standard: $10.50|Local Resident: $12<br /><br />Standard: $15.50
@@ -25,4 +26,6 @@ KAYAK - Closed Deck /<br /> Sit-On-Top|Full Day|Local Resident: $18<br /><br />S
 
 ## Peak Hours 
 _Weekdays: 5pm - 7pm and All day on weekends & public holidays_
+
+asd
 
