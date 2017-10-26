@@ -1,6 +1,6 @@
 **Navigation:** [Kayaking Courses](index) &#124; [Kayaking Expeditions](expedition) &#124; Kayak Rental Rates &#124; [Other Activities](activity)
 
-# PA Water-Venture Rental Rates
+# PA Water-Venture
 _General Operating Hours: 9.30am - 6pm_
 
 Equipment|Duration|Full Time Student|Adult
