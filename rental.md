@@ -1,6 +1,7 @@
 **Navigation:** [Kayaking Courses](index) &#124; [Kayaking Expeditions](expedition) &#124; Kayak Rental Rates &#124; [Other Activities](activity)
 
 # PA Water-Venture Rental Rates
+_General Operating Hours: 0930 - 1800_
 
 Equipment|Duration|Full Time Student|Adult
 :---:|:---:|:------:|:------:
@@ -10,3 +11,12 @@ Kayak Spray Cover <br />(min 2 Star holder) |Per Day|PAssion Card: $2<br /><br /
 
 Related Links:
 [Download full PA Water-Venture brochure](https://www.pa.gov.sg/~/media/PA-Corp/Our_Programmes/WV/WaterVenture_Brochure.ashx)
+
+
+# Singapore Sports Hub - Water Sports Centre 
+_General Operating Hours: 7am to 7pm (last rental at 5pm)_
+
+Equipment|Duration|Full Time Student|Adult
+:---:|:---:|:------:|:------:
+Equipment|Duration|Child/Student/Senior Citizen/Persons with Disabilities|Adult
+KAYAK - Closed Deck /<br /> Sit-On-Top|2 Hours|Local Resident: $8<br /><br />Standard: $10.50|Local Resident: $12<br /><br />Standard: $15.50
