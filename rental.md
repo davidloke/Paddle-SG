@@ -27,5 +27,10 @@ KAYAK - Closed Deck /<br /> Sit-On-Top|Full Day|Local Resident: $18<br /><br />S
 ## Peak Hours 
 _Weekdays: 5pm - 7pm and All day on weekends & public holidays_
 
-asd
+Equipment|Duration|Child/<br />Student/<br />Senior Citizen/<br />Persons with Disabilities|Adult
+:---:|:---:|:------:|:------:
+KAYAK - Closed Deck /<br /> Sit-On-Top|2 Hours|Local Resident: $10<br /><br />Standard: $13|Local Resident: $14<br /><br />Standard: $18
+KAYAK - Closed Deck /<br /> Sit-On-Top|Full Day|Local Resident: $22<br /><br />Standard: $28.50|Local Resident: $30<br /><br />Standard: $39
 
+Related Links:
+[Water Sports Centre - Boat Rental](http://www.sportshub.com.sg/community/Pages/boat-rental.aspx)
