@@ -1,7 +1,8 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 28 Oct 2017 11:43_
-_Some operator's sites are undergoing maintenance, please contact them directly for course vacancies_
+_Last Updated: 28 Oct 2017 12:00_
+
+_Some operator's sites are undergoing maintenance. During this period, please contact them directly for course vacancies_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -47,7 +48,6 @@ _Occurs annually, with compulsory pre-assessment and Sea Kayak Orientation Progr
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-No upcoming courses yet|-|-|-
 
 Related Links:
 [SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/4-star-award-riversea/)

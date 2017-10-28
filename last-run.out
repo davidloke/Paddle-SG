@@ -1,15 +1,28 @@
-Sat 28 Oct 10:00:01 +08 2017
+Sat 28 Oct 12:00:01 +08 2017
 Processing Kayak Activities...
 Getting Kayak Activities
-Finished Processing Kayak Activities
+Operator site is under maintenace
+Traceback (most recent call last):
+  File "GetActivities.py", line 154, in <module>
+    all_outlet_activity_list += getOutletActivity("1395630") # Bedok Reservoir
+TypeError: 'NoneType' object is not iterable
 Processing Kayak Courses...
 Getting Kayak Course Dates
 Processing 1star courses
-Traceback (most recent call last):
-  File "GetCourseDate.py", line 170, in <module>
-    onestar_formatted_string = getCourseListing("https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFShowClasses&_pageLabel=CRMSPortal_page_1&actionIndex=searchClassList&idProduct=727686", "1s-dates.txt")
-  File "GetCourseDate.py", line 112, in getCourseListing
-    allcourses_td = allcourses.find_all("td")
-AttributeError: 'NoneType' object has no attribute 'find_all'
+Operator site is under maintenace
+Processing 2star courses
+Operator site is under maintenace
+Processing 3star courses
+Operator site is under maintenace
+Processing 3star assessment
+Operator site is under maintenace
+Processing level 1 coaching courses
+Operator site is under maintenace
+Not saving out-onestar.txt course output
+Not saving out-twostar.txt course output
+Not saving out-threestar.txt course output
+Not saving out-threeassess.txt course output
+Not saving out-level1coach.txt course output
+Finished Processing Kayak Course Dates
 Producing webpages...
 Finished
