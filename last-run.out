@@ -1,11 +1,25 @@
-Sat 28 Oct 12:00:01 +08 2017
+Sat 28 Oct 12:12:24 +08 2017
 Processing Kayak Activities...
 Getting Kayak Activities
 Operator site is under maintenace
-Traceback (most recent call last):
-  File "GetActivities.py", line 154, in <module>
-    all_outlet_activity_list += getOutletActivity("1395630") # Bedok Reservoir
-TypeError: 'NoneType' object is not iterable
+Maintenance mode - returning empty
+Operator site is under maintenace
+Maintenance mode - returning empty
+Operator site is under maintenace
+Maintenance mode - returning empty
+Operator site is under maintenace
+Maintenance mode - returning empty
+Operator site is under maintenace
+Maintenance mode - returning empty
+Operator site is under maintenace
+Maintenance mode - returning empty
+Operator site is under maintenace
+Maintenance mode - returning empty
+Operator site is under maintenace
+Maintenance mode - returning empty
+Operator site is under maintenace
+Maintenance mode - returning empty
+GetActivities.py - operator site down. not saving
 Processing Kayak Courses...
 Getting Kayak Course Dates
 Processing 1star courses
