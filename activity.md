@@ -1,11 +1,9 @@
 **Navigation:** [Kayaking Courses](index) &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; Other Activities
 
-_Last Updated: 28 Oct 2017 18:00_
-
-_Some operator's sites are undergoing maintenance. During this period, please contact them directly for vacancies_
+_Last Updated: 29 Oct 2017 10:00_
 # Other Upcoming Activities
 
 Activity | Date | Venue | Vacancy
 :---:|:---:|:---:|:---:
-[FUN IN THE SUN - Free Water Sports tryouts (A26433438)](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26433438)|29-Oct-17|PA Water-Venture (Changi)|243<br /><br /> _(Register by: 28-Oct-17)_
+No upcoming activities yet|-|-|- 
 
