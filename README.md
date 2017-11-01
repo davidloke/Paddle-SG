@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 01 Nov 2017 12:05_
+_Last Updated: 01 Nov 2017 14:05_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -9,7 +9,7 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C26570109](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26570109)|18-Nov-17<br /><br />19-Nov-17|PA Water-Venture (Changi)|10<br /><br /> _(Register by: 11-Nov-17)_
+[C26570109](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26570109)|18-Nov-17<br /><br />19-Nov-17|PA Water-Venture (Changi)|9<br /><br /> _(Register by: 11-Nov-17)_
 [C26564331](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26564331)|02-Dec-17<br /><br />03-Dec-17|PA Water-Venture (Changi)|8<br /><br /> _(Register by: 26-Nov-17)_
 [C26565618](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26565618)|02-Dec-17<br /><br />03-Dec-17|PA Water-Venture (Sembawang)|5<br /><br /> _(Register by: 28-Nov-17)_
 [C26553533](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26553533)|09-Dec-17<br /><br />10-Dec-17|PA Water-Venture (Changi)|6<br /><br /> _(Register by: 02-Dec-17)_
