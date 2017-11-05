@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 05 Nov 2017 10:05_
+_Last Updated: 05 Nov 2017 12:06_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -24,7 +24,7 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C26469113](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26469113)|18-Nov-17<br /><br />19-Nov-17<br /><br />25-Nov-17|PA Water-Venture (Sembawang)|7<br /><br /> _(Register by: 11-Nov-17)_
+[C26469113](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26469113)|18-Nov-17<br /><br />19-Nov-17<br /><br />25-Nov-17|PA Water-Venture (Sembawang)|5<br /><br /> _(Register by: 11-Nov-17)_
 [C26487135](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26487135)|18-Nov-17<br /><br />25-Nov-17<br /><br />26-Nov-17|PA Water-Venture (Changi)|7<br /><br /> _(Register by: 12-Nov-17)_
 [C26552940](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26552940)|02-Dec-17<br /><br />03-Dec-17<br /><br />10-Dec-17|PA Water-Venture (Sembawang)|9<br /><br /> _(Register by: 28-Nov-17)_
 [C26553525](https://one.pa.gov.sg/CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=ACMParticipantMaintain&_pageLabel=CRMSPortal_page_1&IdProdInst=26553525)|10-Dec-17<br /><br />16-Dec-17<br /><br />17-Dec-17|PA Water-Venture (Changi)|10<br /><br /> _(Register by: 03-Dec-17)_
