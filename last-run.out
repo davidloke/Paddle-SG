@@ -1,14 +1,42 @@
-Sun  5 Nov 18:00:01 +08 2017
+Sun  5 Nov 19:20:23 +08 2017
 Processing Kayak Activities...
-Getting Kayak Activities
-Finished Processing Kayak Activities
+Processing Bedok Reservoir
+Processing Changi
+Processing East Coast
+Processing Jurong Lake
+Processing Kallang
+Processing Pasir Ris
+Processing Sembawang
+Processing Water Venture Section
+Processing Lower Seletar
+Output file has been saved successfully
 Processing Kayak Courses...
-Getting Kayak Course Dates
-Processing 1star courses
-Processing 2star courses
-Processing 3star courses
-Processing 3star assessment
-Processing level 1 coaching courses
-Finished Processing Kayak Course Dates
+Getting Operator Course Dates
+Processing One Star Courses
+Output file has been saved successfully
+Finished One Star Courses
+
+
+Processing Two Star Courses
+Output file has been saved successfully
+Finished Two Star Courses
+
+
+Processing Three Star Courses
+Output file has been saved successfully
+Finished Three Star Courses
+
+
+Processing Three Star Assessments
+Output file has been saved successfully
+Finished Three Star Assessments
+
+
+Processing Level 1 Coaching Courses
+Output file has been saved successfully
+Finished Level 1 Coaching Courses
+
+
+Finished Processing Operator Course Dates
 Producing webpages...
 Finished
