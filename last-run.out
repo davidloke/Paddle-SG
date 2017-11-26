@@ -1,4 +1,4 @@
-Sun 26 Nov 14:00:01 +08 2017
+Sun 26 Nov 16:00:01 +08 2017
 Processing Kayak Activities...
 Processing Bedok Reservoir
 Traceback (most recent call last):
@@ -23,7 +23,7 @@ Traceback (most recent call last):
     conn = self._new_conn()
   File "/usr/local/lib/python3.4/dist-packages/urllib3/connection.py", line 150, in _new_conn
     self, "Failed to establish a new connection: %s" % e)
-urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0xb621d090>: Failed to establish a new connection: [Errno 101] Network is unreachable
+urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0xb6202090>: Failed to establish a new connection: [Errno 101] Network is unreachable
 
 During handling of the above exception, another exception occurred:
 
@@ -34,7 +34,7 @@ Traceback (most recent call last):
     _stacktrace=sys.exc_info()[2])
   File "/usr/local/lib/python3.4/dist-packages/urllib3/util/retry.py", line 388, in increment
     raise MaxRetryError(_pool, url, error or ResponseError(cause))
-urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='one.pa.gov.sg', port=443): Max retries exceeded with url: /CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=action&wlpCRMSPortal_1_action=CMFCategoryActivitySelection&_pageLabel=CRMSPortal_page_1 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb621d090>: Failed to establish a new connection: [Errno 101] Network is unreachable',))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='one.pa.gov.sg', port=443): Max retries exceeded with url: /CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=action&wlpCRMSPortal_1_action=CMFCategoryActivitySelection&_pageLabel=CRMSPortal_page_1 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb6202090>: Failed to establish a new connection: [Errno 101] Network is unreachable',))
 
 During handling of the above exception, another exception occurred:
 
@@ -55,7 +55,7 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/usr/local/lib/python3.4/dist-packages/requests/adapters.py", line 508, in send
     raise ConnectionError(e, request=request)
-requests.exceptions.ConnectionError: HTTPSConnectionPool(host='one.pa.gov.sg', port=443): Max retries exceeded with url: /CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=action&wlpCRMSPortal_1_action=CMFCategoryActivitySelection&_pageLabel=CRMSPortal_page_1 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb621d090>: Failed to establish a new connection: [Errno 101] Network is unreachable',))
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='one.pa.gov.sg', port=443): Max retries exceeded with url: /CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=action&wlpCRMSPortal_1_action=CMFCategoryActivitySelection&_pageLabel=CRMSPortal_page_1 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb6202090>: Failed to establish a new connection: [Errno 101] Network is unreachable',))
 Processing Kayak Courses...
 Getting Operator Course Dates
 Processing One Star Courses
@@ -81,7 +81,7 @@ Traceback (most recent call last):
     conn = self._new_conn()
   File "/usr/local/lib/python3.4/dist-packages/urllib3/connection.py", line 150, in _new_conn
     self, "Failed to establish a new connection: %s" % e)
-urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0xb6223050>: Failed to establish a new connection: [Errno 101] Network is unreachable
+urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0xb623e050>: Failed to establish a new connection: [Errno 101] Network is unreachable
 
 During handling of the above exception, another exception occurred:
 
@@ -92,7 +92,7 @@ Traceback (most recent call last):
     _stacktrace=sys.exc_info()[2])
   File "/usr/local/lib/python3.4/dist-packages/urllib3/util/retry.py", line 388, in increment
     raise MaxRetryError(_pool, url, error or ResponseError(cause))
-urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='one.pa.gov.sg', port=443): Max retries exceeded with url: /CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFShowClasses&_pageLabel=CRMSPortal_page_1&actionIndex=searchClassList&idProduct=727686 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb6223050>: Failed to establish a new connection: [Errno 101] Network is unreachable',))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='one.pa.gov.sg', port=443): Max retries exceeded with url: /CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFShowClasses&_pageLabel=CRMSPortal_page_1&actionIndex=searchClassList&idProduct=727686 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb623e050>: Failed to establish a new connection: [Errno 101] Network is unreachable',))
 
 During handling of the above exception, another exception occurred:
 
@@ -113,7 +113,7 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/usr/local/lib/python3.4/dist-packages/requests/adapters.py", line 508, in send
     raise ConnectionError(e, request=request)
-requests.exceptions.ConnectionError: HTTPSConnectionPool(host='one.pa.gov.sg', port=443): Max retries exceeded with url: /CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFShowClasses&_pageLabel=CRMSPortal_page_1&actionIndex=searchClassList&idProduct=727686 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb6223050>: Failed to establish a new connection: [Errno 101] Network is unreachable',))
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='one.pa.gov.sg', port=443): Max retries exceeded with url: /CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFShowClasses&_pageLabel=CRMSPortal_page_1&actionIndex=searchClassList&idProduct=727686 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb623e050>: Failed to establish a new connection: [Errno 101] Network is unreachable',))
 Producing webpages...
 Finished
-Sun 26 Nov 14:00:15 +08 2017
+Sun 26 Nov 16:00:15 +08 2017
