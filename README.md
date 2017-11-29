@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 30 Nov 2017 01:26_
+_Last Updated: 30 Nov 2017 01:29_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -61,7 +61,7 @@ Related Links:
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-No upcoming courses yet|-|-|-
+[C026495719](https://www.onepa.sg/class/details/c026495719)|18 Nov 2017<br/><br/>to<br/><br/>02 Dec 2017|WATER-VENTURE (SEMBAWANG)|Full
 
 Related Links:
 [SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-coaching-course/menu-parent-recreational/coaching-level-1-r/)
