@@ -1,4 +1,4 @@
-Wed 29 Nov 10:00:01 +08 2017
+Wed 29 Nov 12:00:01 +08 2017
 Processing Kayak Activities...
 Processing Bedok Reservoir
 Traceback (most recent call last):
@@ -98,4 +98,4 @@ Traceback (most recent call last):
 requests.exceptions.SSLError: HTTPSConnectionPool(host='one.pa.gov.sg', port=443): Max retries exceeded with url: /CRMSPortal/CRMSPortal.portal?_nfpb=true&_st=&_windowLabel=CRMSPortal_1&_urlType=render&_mode=view&wlpCRMSPortal_1_action=CMFShowClasses&_pageLabel=CRMSPortal_page_1&actionIndex=searchClassList&idProduct=727686 (Caused by SSLError(CertificateError("hostname 'one.pa.gov.sg' doesn't match either of 'onepa.sg', 'api.onepa.sg', 'www.onepa.sg'",),))
 Producing webpages...
 Finished
-Wed 29 Nov 10:00:15 +08 2017
+Wed 29 Nov 12:00:16 +08 2017
