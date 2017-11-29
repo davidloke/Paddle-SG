@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 30 Nov 2017 00:31_
+_Last Updated: 30 Nov 2017 00:37_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -9,8 +9,8 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C026565618](https://www.onepa.sg/class/details/C026565618)|02 Dec 2017 to 03 Dec 2017|WATER-VENTURE (SEMBAWANG)|1
-[C026571946](https://www.onepa.sg/class/details/C026571946)|02 Dec 2017 to 03 Dec 2017|WATER-VENTURE (SEMBAWANG)|1
+[C026565618](https://www.onepa.sg/class/details/c026565618)|02 Dec 2017 to 03 Dec 2017|WATER-VENTURE (SEMBAWANG)|1
+[C026571946](https://www.onepa.sg/class/details/c026571946)|02 Dec 2017 to 03 Dec 2017|WATER-VENTURE (SEMBAWANG)|1
 
 Related Links:
 [SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/1-star-award/) &#124; [Handbook](http://scf.org.sg/RC6/hidden_content_scf/uploads/2014/11/RP-SCF-1-Star-Handbook.pdf)
@@ -20,7 +20,7 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C026552940](https://www.onepa.sg/class/details/C026552940)|02 Dec 2017 to 10 Dec 2017|WATER-VENTURE (SEMBAWANG)|4
+[C026552940](https://www.onepa.sg/class/details/c026552940)|02 Dec 2017 to 10 Dec 2017|WATER-VENTURE (SEMBAWANG)|4
 
 Related Links:
 [SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/2-star-award/) &#124; [Handbook](http://scf.org.sg/RC6/hidden_content_scf/uploads/2014/11/RP-SCF-2-Star-Handbook.pdf)
