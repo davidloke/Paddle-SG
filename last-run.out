@@ -1,12 +1,8 @@
-Thu 30 Nov 00:15:01 +08 2017
+Thu 30 Nov 00:30:50 +08 2017
 Processing Kayak Courses...
 Getting Operator Course Dates
-Traceback (most recent call last):
-  File "/home/paddlesg/Paddle-SG_Scripts/GetAllCourses.py", line 15, in <module>
-    processedCourses = processFilteredCourses(filteredCourses)
-  File "/home/paddlesg/Paddle-SG_Scripts/GetPACourses.py", line 72, in processFilteredCourses
-    courseBeautifulSoup = getIndividualCoursePage(courseUrlPrefix + courseUrl)
-TypeError: Can't convert 'NoneType' object to str implicitly
+['C026552940', 'C026565618', 'C026571946', 'C026152519']
+Finished Processing Operator Course Dates
 Producing webpages...
 Finished
-Thu 30 Nov 00:15:12 +08 2017
+Thu 30 Nov 00:31:53 +08 2017
