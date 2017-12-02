@@ -1,7 +1,14 @@
-Sat  2 Dec 10:00:01 +08 2017
+Sat  2 Dec 11:46:29 +08 2017
 Processing Kayak Courses...
 Getting Operator Course Dates
-Finished Processing Operator Course Dates
+Operator site is unavailable
+    Step: Get cookie from site
+    Operator: PA
+    URL: https://www.onepa.sg/sitecore/shell/WebService/Card.asmx/GetCategoryCard
+Traceback (most recent call last):
+  File "/home/paddlesg/Paddle-SG_Scripts/GetAllCourses.py", line 33, in <module>
+    print("Not overwritting output file " + outputFile + " as operator site is down")
+NameError: name 'outputFile' is not defined
 Producing webpages...
 Finished
-Sat  2 Dec 10:00:12 +08 2017
+Sat  2 Dec 11:46:36 +08 2017
