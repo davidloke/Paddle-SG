@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 22 Dec 2017 18:00_
+_Last Updated: 23 Dec 2017 10:01_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -9,10 +9,11 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C026605357](https://www.onepa.sg/class/details/c026605357)|23 Dec 2017<br/><br/>to<br/><br/>24 Dec 2017|WATER-VENTURE (CHANGI)|2
-[C026605450](https://www.onepa.sg/class/details/c026605450)|23 Dec 2017<br/><br/>to<br/><br/>24 Dec 2017|WATER-VENTURE (CHANGI)|5
 [C026605365](https://www.onepa.sg/class/details/c026605365)|26 Dec 2017<br/><br/>to<br/><br/>27 Dec 2017|WATER-VENTURE (CHANGI)|3
 [C026605294](https://www.onepa.sg/class/details/c026605294)|06 Jan 2018<br/><br/>to<br/><br/>07 Jan 2018|WATER-VENTURE (CHANGI)|10
+[C026605647](https://www.onepa.sg/class/details/c026605647)|20 Jan 2018<br/><br/>to<br/><br/>21 Jan 2018|WATER-VENTURE (CHANGI)|10
+[C026605640](https://www.onepa.sg/class/details/c026605640)|20 Jan 2018<br/><br/>to<br/><br/>21 Jan 2018|WATER-VENTURE (CHANGI)|10
+[C026605598](https://www.onepa.sg/class/details/c026605598)|27 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|WATER-VENTURE (CHANGI)|10
 
 Related Links:
 [SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/1-star-award/) &#124; [Handbook](http://scf.org.sg/RC6/hidden_content_scf/uploads/2014/11/RP-SCF-1-Star-Handbook.pdf)
