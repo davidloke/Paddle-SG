@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 25 Dec 2017 12:01_
+_Last Updated: 25 Dec 2017 12:15_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -17,7 +17,7 @@ Course Code | Dates | Venue | Vacancy
 [C026605598](https://www.onepa.sg/class/details/c026605598)|27 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|WATER-VENTURE (CHANGI)|10
 
 Related Links:
-[SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/1-star-award/) &#124; [SCF Handbook](http://scf.org.sg/RC6/hidden_content_scf/uploads/2014/11/RP-SCF-1-Star-Handbook.pdf) &#124; [WV Handbook](https://github.com/davidloke/Paddle-SG/raw/master/handbook/wv-1star-handbook.pdf)
+[SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/1-star-award/) &#124; [RP-SCF Handbook](http://scf.org.sg/RC6/hidden_content_scf/uploads/2014/11/RP-SCF-1-Star-Handbook.pdf) &#124; [WV Handbook](https://github.com/davidloke/Paddle-SG/raw/master/handbook/wv-1star-handbook.pdf)
 
 ## Two Star Courses
 _Classes from 10am to 5pm everyday_
@@ -27,7 +27,7 @@ Course Code | Dates | Venue | Vacancy
 No upcoming courses yet|-|-|-
 
 Related Links:
-[SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/2-star-award/) &#124; [SCF Handbook](http://scf.org.sg/RC6/hidden_content_scf/uploads/2014/11/RP-SCF-2-Star-Handbook.pdf) &#124; [WV Handbook](https://github.com/davidloke/Paddle-SG/raw/master/handbook/wv-2star-handbook.pdf)
+[SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/2-star-award/) &#124; [RP-SCF Handbook](http://scf.org.sg/RC6/hidden_content_scf/uploads/2014/11/RP-SCF-2-Star-Handbook.pdf) &#124; [WV Handbook](https://github.com/davidloke/Paddle-SG/raw/master/handbook/wv-2star-handbook.pdf)
 
 ## Three Star Courses
 _Classes from 10am to 5pm everyday_
@@ -37,7 +37,7 @@ Course Code | Dates | Venue | Vacancy
 No upcoming courses yet|-|-|-
 
 Related Links:
-[SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/3-star-award/) &#124; [Handbook](http://scf.org.sg/RC6/hidden_content_scf/uploads/2014/11/RP-SCF-3-Star-Handbook.pdf)
+[SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/3-star-award/) &#124; [RP-SCF Handbook](http://scf.org.sg/RC6/hidden_content_scf/uploads/2014/11/RP-SCF-3-Star-Handbook.pdf)
 
 ## Three Star Assessments
 _Classes from 10am to 5pm everyday_
