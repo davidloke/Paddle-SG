@@ -1,4 +1,4 @@
-Mon Dec 25 12:40:54 +08 2017
+Mon Dec 25 12:43:26 +08 2017
 Processing Kayak Courses...
 Traceback (most recent call last):
   File "/home/paddlesg/Paddle-SG_Scripts/GetAllCourses.py", line 1, in <module>
@@ -9,4 +9,4 @@ Traceback (most recent call last):
 SyntaxError: EOL while scanning string literal
 Producing webpages...
 Finished
-Mon Dec 25 12:40:56 +08 2017
+Mon Dec 25 12:43:28 +08 2017
