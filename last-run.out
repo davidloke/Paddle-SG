@@ -1,12 +1,7 @@
-Mon Dec 25 12:43:26 +08 2017
+Mon Dec 25 12:44:06 +08 2017
 Processing Kayak Courses...
-Traceback (most recent call last):
-  File "/home/paddlesg/Paddle-SG_Scripts/GetAllCourses.py", line 1, in <module>
-    from GetPACourses import getAllCourseListing, filterCourseListing, processFilteredCourses, formatInfoForHosting, sortCoursesByDate
-  File "/home/paddlesg/Paddle-SG_Scripts/GetPACourses.py", line 158
-    elif ("KAYAKING LEVEL 1 COACH" in c["classType"].upper()"): 
-                                                               ^
-SyntaxError: EOL while scanning string literal
+Getting Operator Course Dates
+Finished Processing Operator Course Dates
 Producing webpages...
 Finished
-Mon Dec 25 12:43:28 +08 2017
+Mon Dec 25 12:45:24 +08 2017
