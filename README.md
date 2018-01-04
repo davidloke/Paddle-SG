@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 03 Jan 2018 18:01_
+_Last Updated: 04 Jan 2018 10:01_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -9,11 +9,12 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C026606677](https://www.onepa.sg/class/details/c026606677)|20 Jan 2018<br/><br/>to<br/><br/>21 Jan 2018|WATER-VENTURE (SEMBAWANG)|3
-[C026605647](https://www.onepa.sg/class/details/c026605647)|20 Jan 2018<br/><br/>to<br/><br/>21 Jan 2018|WATER-VENTURE (CHANGI)|8
+[C026606849](https://www.onepa.sg/class/details/c026606849)|13 Jan 2018<br/><br/>to<br/><br/>14 Jan 2018|WATER-VENTURE (CHANGI)|4
+[C026606677](https://www.onepa.sg/class/details/c026606677)|20 Jan 2018<br/><br/>to<br/><br/>21 Jan 2018|WATER-VENTURE (SEMBAWANG)|1
+[C026605647](https://www.onepa.sg/class/details/c026605647)|20 Jan 2018<br/><br/>to<br/><br/>21 Jan 2018|WATER-VENTURE (CHANGI)|6
 [C026606031](https://www.onepa.sg/class/details/c026606031)|21 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|WATER-VENTURE (PASIR RIS)|6
 [C026606809](https://www.onepa.sg/class/details/c026606809)|27 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|WATER-VENTURE (SEMBAWANG)|10
-[C026605598](https://www.onepa.sg/class/details/c026605598)|27 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|WATER-VENTURE (CHANGI)|5
+[C026605598](https://www.onepa.sg/class/details/c026605598)|27 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|WATER-VENTURE (CHANGI)|4
 
 Related Links:
 [SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/1-star-award/) &#124; [RP-SCF Handbook](http://scf.org.sg/RC6/hidden_content_scf/uploads/2014/11/RP-SCF-1-Star-Handbook.pdf) &#124; [WV Handbook](https://github.com/davidloke/Paddle-SG/raw/master/handbook/wv-1star-handbook.pdf)
@@ -23,7 +24,8 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-No upcoming courses yet|-|-|-
+[C026608204](https://www.onepa.sg/class/details/c026608204)|13 Jan 2018<br/><br/>to<br/><br/>27 Jan 2018|WATER-VENTURE (CHANGI)|10
+[C026608209](https://www.onepa.sg/class/details/c026608209)|21 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|WATER-VENTURE (CHANGI)|10
 
 Related Links:
 [SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/2-star-award/) &#124; [RP-SCF Handbook](http://scf.org.sg/RC6/hidden_content_scf/uploads/2014/11/RP-SCF-2-Star-Handbook.pdf) &#124; [WV Handbook](https://github.com/davidloke/Paddle-SG/raw/master/handbook/wv-2star-handbook.pdf)
