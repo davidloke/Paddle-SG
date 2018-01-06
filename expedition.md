@@ -1,6 +1,6 @@
 **Navigation:** [Kayaking Courses](index) &#124; Kayaking Expeditions &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 06 Jan 2018 12:01_
+_Last Updated: 06 Jan 2018 14:01_
 # Upcoming Kayak Expeditions
 
 _Only expeditions with vacancies are shown_
