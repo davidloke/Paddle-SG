@@ -1,11 +1,11 @@
 **Navigation:** [Kayaking Courses](index) &#124; Kayaking Expeditions &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 07 Jan 2018 12:55_
+_Last Updated: 07 Jan 2018 13:51_
 # Upcoming Kayak Expeditions
 
 _Only expeditions with vacancies are shown_
 
 Expedition | Date | Venue | Vacancy
 :---:|:---:|:---:|:---:
-No upcoming expeditions yet|-|-|- 
+Kayaking Expedition to Coney Island[A026599722](https://www.onepa.sg/event/details/a026599722)|03 Feb 2018<br/><br/>to<br/><br/>03 Feb 2018|Water-Venture(Changi)|20
 
