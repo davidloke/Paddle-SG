@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 08 Jan 2018 16:02_
+_Last Updated: 08 Jan 2018 18:01_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -9,7 +9,6 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C026606849](https://www.onepa.sg/class/details/c026606849)|13 Jan 2018<br/><br/>to<br/><br/>14 Jan 2018|WATER-VENTURE (CHANGI)|1
 [C026606809](https://www.onepa.sg/class/details/c026606809)|27 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|WATER-VENTURE (SEMBAWANG)|4
 [C026605598](https://www.onepa.sg/class/details/c026605598)|27 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|WATER-VENTURE (CHANGI)|3
 [C026609184](https://www.onepa.sg/class/details/c026609184)|03 Feb 2018<br/><br/>to<br/><br/>04 Feb 2018|WATER-VENTURE (CHANGI)|10
