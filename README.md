@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 08 Jan 2018 18:01_
+_Last Updated: 09 Jan 2018 10:01_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -9,8 +9,7 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C026606809](https://www.onepa.sg/class/details/c026606809)|27 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|WATER-VENTURE (SEMBAWANG)|4
-[C026605598](https://www.onepa.sg/class/details/c026605598)|27 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|WATER-VENTURE (CHANGI)|3
+[C026606809](https://www.onepa.sg/class/details/c026606809)|27 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|WATER-VENTURE (SEMBAWANG)|3
 [C026609184](https://www.onepa.sg/class/details/c026609184)|03 Feb 2018<br/><br/>to<br/><br/>04 Feb 2018|WATER-VENTURE (CHANGI)|10
 [C026609186](https://www.onepa.sg/class/details/c026609186)|10 Feb 2018<br/><br/>to<br/><br/>11 Feb 2018|WATER-VENTURE (CHANGI)|10
 [C026608083](https://www.onepa.sg/class/details/c026608083)|10 Feb 2018<br/><br/>to<br/><br/>11 Feb 2018|WATER-VENTURE (PASIR RIS)|5
@@ -25,7 +24,7 @@ _Classes from 10am to 5pm everyday_
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
 [C026608204](https://www.onepa.sg/class/details/c026608204)|13 Jan 2018<br/><br/>to<br/><br/>27 Jan 2018|WATER-VENTURE (CHANGI)|10
-[C026608209](https://www.onepa.sg/class/details/c026608209)|21 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|WATER-VENTURE (CHANGI)|10
+[C026608209](https://www.onepa.sg/class/details/c026608209)|21 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|WATER-VENTURE (CHANGI)|9
 [C026609189](https://www.onepa.sg/class/details/c026609189)|04 Feb 2018<br/><br/>to<br/><br/>11 Feb 2018|WATER-VENTURE (CHANGI)|8
 
 Related Links:
@@ -63,7 +62,7 @@ Related Links:
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C026609386](https://www.onepa.sg/class/details/c026609386)|20 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|WATER-VENTURE (CHANGI)|6
+[C026609386](https://www.onepa.sg/class/details/c026609386)|20 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|WATER-VENTURE (CHANGI)|5
 
 Related Links:
 [SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-coaching-course/menu-parent-recreational/coaching-level-1-r/)
