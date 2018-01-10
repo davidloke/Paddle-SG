@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 10 Jan 2018 14:01_
+_Last Updated: 10 Jan 2018 16:01_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -62,7 +62,7 @@ Related Links:
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C026609386](https://www.onepa.sg/class/details/c026609386)|20 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|WATER-VENTURE (CHANGI)|3
+[C026609386](https://www.onepa.sg/class/details/c026609386)|20 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|WATER-VENTURE (CHANGI)|2
 
 Related Links:
 [SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-coaching-course/menu-parent-recreational/coaching-level-1-r/)
