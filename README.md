@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 12 Jan 2018 18:01_
+_Last Updated: 13 Jan 2018 10:02_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -9,6 +9,8 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
+[C000000352](https://www.onepa.sg/class/details/c000000352)|27 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|PASSION WAVE @ MARINA BAY|4
+[C000000355](https://www.onepa.sg/class/details/c000000355)|27 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|PASSION WAVE @ MARINA BAY|3
 [C000000080](https://www.onepa.sg/class/details/c000000080)|03 Feb 2018<br/><br/>to<br/><br/>04 Feb 2018|WATER-VENTURE (SEMBAWANG)|10
 [C026609184](https://www.onepa.sg/class/details/c026609184)|03 Feb 2018<br/><br/>to<br/><br/>04 Feb 2018|WATER-VENTURE (CHANGI)|8
 [C026609186](https://www.onepa.sg/class/details/c026609186)|10 Feb 2018<br/><br/>to<br/><br/>11 Feb 2018|WATER-VENTURE (CHANGI)|10
@@ -23,7 +25,6 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C026608204](https://www.onepa.sg/class/details/c026608204)|13 Jan 2018<br/><br/>to<br/><br/>27 Jan 2018|WATER-VENTURE (CHANGI)|7
 [C026608209](https://www.onepa.sg/class/details/c026608209)|21 Jan 2018<br/><br/>to<br/><br/>28 Jan 2018|WATER-VENTURE (CHANGI)|8
 [C000000025](https://www.onepa.sg/class/details/c000000025)|03 Feb 2018<br/><br/>to<br/><br/>11 Feb 2018|WATER-VENTURE (SEMBAWANG)|10
 [C026609189](https://www.onepa.sg/class/details/c026609189)|04 Feb 2018<br/><br/>to<br/><br/>11 Feb 2018|WATER-VENTURE (CHANGI)|8
