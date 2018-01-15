@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 14 Jan 2018 18:02_
+_Last Updated: 15 Jan 2018 10:02_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -17,7 +17,7 @@ Course Code | Dates | Venue | Vacancy
 [C026609186](https://www.onepa.sg/class/details/c026609186)|10 Feb 2018<br/><br/>to<br/><br/>11 Feb 2018|WATER-VENTURE (CHANGI)|10
 [C026608083](https://www.onepa.sg/class/details/c026608083)|10 Feb 2018<br/><br/>to<br/><br/>11 Feb 2018|WATER-VENTURE (PASIR RIS)|2
 [C000000575](https://www.onepa.sg/class/details/c000000575)|24 Feb 2018<br/><br/>to<br/><br/>03 Mar 2018|WATER-VENTURE (SEMBAWANG)|10
-[C026609187](https://www.onepa.sg/class/details/c026609187)|24 Feb 2018<br/><br/>to<br/><br/>25 Feb 2018|WATER-VENTURE (CHANGI)|10
+[C026609187](https://www.onepa.sg/class/details/c026609187)|24 Feb 2018<br/><br/>to<br/><br/>25 Feb 2018|WATER-VENTURE (CHANGI)|4
 
 Related Links:
 [SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/1-star-award/) &#124; [RP-SCF Handbook](http://scf.org.sg/RC6/hidden_content_scf/uploads/2014/11/RP-SCF-1-Star-Handbook.pdf) &#124; [WV Handbook](https://github.com/davidloke/Paddle-SG/raw/master/handbook/wv-1star-handbook.pdf)
