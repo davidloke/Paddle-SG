@@ -1,15 +1,9 @@
-Mon 29 Jan 10:00:01 +08 2018
+Mon 29 Jan 12:00:01 +08 2018
 Processing Kayak Courses...
 Getting Operator Course Dates
-Operator site is unavailable
-    Step: Get a list of courses
-    Operator: PA
-    URL: https://www.onepa.sg/sitecore/shell/WebService/Card.asmx/GetCategoryCard
-Not overwritting Course output file as operator site is down
 Finished Processing Operator Course Dates
 Getting Operator Expedition Dates
-Not overwritting Course output file as operator site is down
 Finished Processing Operator Expeditions
 Producing webpages...
 Finished
-Mon 29 Jan 10:00:23 +08 2018
+Mon 29 Jan 12:04:25 +08 2018
