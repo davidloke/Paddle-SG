@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 30 Jan 2018 14:05_
+_Last Updated: 30 Jan 2018 16:04_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -10,7 +10,7 @@ _Classes from 10am to 5pm everyday_
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
 [C026613519](https://www.onepa.sg/class/details/c026613519)|03 Feb 2018<br/><br/>to<br/><br/>10 Feb 2018|WATER-VENTURE (SEMBAWANG)|1
-[C026609184](https://www.onepa.sg/class/details/c026609184)|03 Feb 2018<br/><br/>to<br/><br/>04 Feb 2018|WATER-VENTURE (CHANGI)|4
+[C026609184](https://www.onepa.sg/class/details/c026609184)|03 Feb 2018<br/><br/>to<br/><br/>04 Feb 2018|WATER-VENTURE (CHANGI)|3
 [C000000568](https://www.onepa.sg/class/details/c000000568)|10 Feb 2018<br/><br/>to<br/><br/>11 Feb 2018|WATER-VENTURE (SEMBAWANG)|6
 [C026608083](https://www.onepa.sg/class/details/c026608083)|10 Feb 2018<br/><br/>to<br/><br/>11 Feb 2018|WATER-VENTURE (PASIR RIS)|2
 [C000000575](https://www.onepa.sg/class/details/c000000575)|24 Feb 2018<br/><br/>to<br/><br/>03 Mar 2018|WATER-VENTURE (SEMBAWANG)|9
@@ -18,7 +18,7 @@ Course Code | Dates | Venue | Vacancy
 [C026613280](https://www.onepa.sg/class/details/c026613280)|03 Mar 2018<br/><br/>to<br/><br/>04 Mar 2018|WATER-VENTURE (SEMBAWANG)|8
 [C026612449](https://www.onepa.sg/class/details/c026612449)|03 Mar 2018<br/><br/>to<br/><br/>04 Mar 2018|WATER-VENTURE (CHANGI)|10
 [C026612324](https://www.onepa.sg/class/details/c026612324)|03 Mar 2018<br/><br/>to<br/><br/>10 Mar 2018|WATER-VENTURE (SEMBAWANG)|10
-[C026613154](https://www.onepa.sg/class/details/c026613154)|17 Mar 2018<br/><br/>to<br/><br/>18 Mar 2018|WATER-VENTURE (CHANGI)|10
+[C026613154](https://www.onepa.sg/class/details/c026613154)|17 Mar 2018<br/><br/>to<br/><br/>18 Mar 2018|WATER-VENTURE (CHANGI)|9
 [C026612321](https://www.onepa.sg/class/details/c026612321)|17 Mar 2018<br/><br/>to<br/><br/>24 Mar 2018|WATER-VENTURE (SEMBAWANG)|8
 [C026611633](https://www.onepa.sg/class/details/c026611633)|17 Mar 2018<br/><br/>to<br/><br/>18 Mar 2018|WATER-VENTURE (SEMBAWANG)|3
 
