@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 19 Feb 2018 10:02_
+_Last Updated: 19 Feb 2018 12:02_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -39,7 +39,7 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C026613192](https://www.onepa.sg/class/details/c026613192)|17 Mar 2018<br/><br/>to<br/><br/>25 Mar 2018|WATER-VENTURE (CHANGI)|4
+[C026613192](https://www.onepa.sg/class/details/c026613192)|17 Mar 2018<br/><br/>to<br/><br/>25 Mar 2018|WATER-VENTURE (CHANGI)|3
 
 Related Links:
 [SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/3-star-award/) &#124; [RP-SCF Handbook](http://scf.org.sg/RC6/hidden_content_scf/uploads/2014/11/RP-SCF-3-Star-Handbook.pdf) &#124; [WV Handbook](https://github.com/davidloke/Paddle-SG/raw/master/handbook/wv-3star-handbook.pdf)
