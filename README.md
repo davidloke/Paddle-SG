@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 23 Feb 2018 10:03_
+_Last Updated: 23 Feb 2018 12:03_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -70,7 +70,7 @@ Related Links:
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C026617167](https://www.onepa.sg/class/details/c026617167)|11 Mar 2018<br/><br/>to<br/><br/>25 Mar 2018|WATER-VENTURE (PASIR RIS)|6
+[C026617167](https://www.onepa.sg/class/details/c026617167)|11 Mar 2018<br/><br/>to<br/><br/>25 Mar 2018|WATER-VENTURE (PASIR RIS)|5
 
 Related Links:
 [SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-coaching-course/menu-parent-recreational/coaching-level-1-r/)
