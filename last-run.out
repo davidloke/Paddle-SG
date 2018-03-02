@@ -1,16 +1,9 @@
-Fri  2 Mar 10:00:01 +08 2018
+Fri  2 Mar 12:00:01 +08 2018
 Processing Kayak Courses...
 Getting Operator Course Dates
-Operator site is unavailable
-    Step: Get a list of courses
-Traceback (most recent call last):
-  File "/home/paddlesg/Paddle-SG_Scripts/GetAllCourses.py", line 18, in <module>
-    processedCourses = processFilteredCourses(filteredCourses)
-  File "/home/paddlesg/Paddle-SG_Scripts/GetPACourses.py", line 91, in processFilteredCourses
-    courseBeautifulSoup = getIndividualCoursePage(courseUrlPrefix + courseUrl)
-  File "/home/paddlesg/Paddle-SG_Scripts/GetPACourses.py", line 110, in getIndividualCoursePage
-    print ("    Operator: " + operator)
-NameError: name 'operator' is not defined
+Finished Processing Operator Course Dates
+Getting Operator Expedition Dates
+Finished Processing Operator Expeditions
 Producing webpages...
 Finished
-Fri  2 Mar 10:01:08 +08 2018
+Fri  2 Mar 12:02:36 +08 2018
