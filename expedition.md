@@ -1,8 +1,6 @@
 **Navigation:** [Kayaking Courses](index) &#124; Kayaking Expeditions &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 18 Mar 2018 18:00_
-
-_Some operator's sites are undergoing maintenance. During this period, please contact them directly to check for vacancies_
+_Last Updated: 19 Mar 2018 10:04_
 # Upcoming Kayak Expeditions
 
 _Only expeditions with vacancies are shown_
@@ -10,5 +8,5 @@ _Only expeditions with vacancies are shown_
 Expedition | Date | Venue | Vacancy
 :---:|:---:|:---:|:---:
 Kayaking Expedition to Coney Island<br />[A026603791](https://www.onepa.sg/event/details/a026603791)|07 Apr 2018<br/><br/>to<br/><br/>07 Apr 2018|N.A|20
-The Kayak Series : 2D1N Jelutong Expedition Camp<br />[A026604487](https://www.onepa.sg/event/details/a026604487)|28 Apr 2018<br/><br/>to<br/><br/>29 Apr 2018|WATER-VENTURE (SEMBAWANG)|53
+The Kayak Series : 2D1N Jelutong Expedition Camp<br />[A026604487](https://www.onepa.sg/event/details/a026604487)|28 Apr 2018<br/><br/>to<br/><br/>29 Apr 2018|WATER-VENTURE (SEMBAWANG)|51
 
