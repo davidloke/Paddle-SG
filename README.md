@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 25 Mar 2018 14:03_
+_Last Updated: 25 Mar 2018 16:03_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -13,7 +13,7 @@ Course Code | Dates | Venue | Vacancy
 [C026619016](https://www.onepa.sg/class/details/c026619016)|31 Mar 2018<br/><br/>to<br/><br/>01 Apr 2018|WATER-VENTURE (SEMBAWANG)|1
 [C026624212](https://www.onepa.sg/class/details/c026624212)|14 Apr 2018<br/><br/>to<br/><br/>15 Apr 2018|WATER-VENTURE (SEMBAWANG)|7
 [C026619070](https://www.onepa.sg/class/details/c026619070)|21 Apr 2018<br/><br/>to<br/><br/>22 Apr 2018|WATER-VENTURE (CHANGI)|7
-[C026621115](https://www.onepa.sg/class/details/c026621115)|28 Apr 2018<br/><br/>to<br/><br/>29 Apr 2018|WATER-VENTURE (PASIR RIS)|6
+[C026621115](https://www.onepa.sg/class/details/c026621115)|28 Apr 2018<br/><br/>to<br/><br/>29 Apr 2018|WATER-VENTURE (PASIR RIS)|5
 [C026619081](https://www.onepa.sg/class/details/c026619081)|28 Apr 2018<br/><br/>to<br/><br/>29 Apr 2018|WATER-VENTURE (CHANGI)|10
 [C026624951](https://www.onepa.sg/class/details/c026624951)|12 May 2018<br/><br/>to<br/><br/>13 May 2018|WATER-VENTURE (SEMBAWANG)|10
 [C026623166](https://www.onepa.sg/class/details/c026623166)|12 May 2018<br/><br/>to<br/><br/>13 May 2018|WATER-VENTURE (CHANGI)|10
