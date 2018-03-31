@@ -1,6 +1,6 @@
 **Navigation:** Kayaking Courses &#124; [Kayaking Expeditions](expedition) &#124; [Kayak Rental Rates](rental) &#124; [Other Activities](activity)
 
-_Last Updated: 31 Mar 2018 10:03_
+_Last Updated: 31 Mar 2018 12:03_
 # Upcoming Kayak Courses
 _Only courses with vacancies are shown_
 
@@ -9,7 +9,7 @@ _Classes from 10am to 5pm everyday_
 
 Course Code | Dates | Venue | Vacancy 
 :---: | :---: | :---: | :---: 
-[C026624212](https://www.onepa.sg/class/details/c026624212)|14 Apr 2018<br/><br/>to<br/><br/>15 Apr 2018|WATER-VENTURE (SEMBAWANG)|6
+[C026624212](https://www.onepa.sg/class/details/c026624212)|14 Apr 2018<br/><br/>to<br/><br/>15 Apr 2018|WATER-VENTURE (SEMBAWANG)|5
 [C026619070](https://www.onepa.sg/class/details/c026619070)|21 Apr 2018<br/><br/>to<br/><br/>22 Apr 2018|WATER-VENTURE (CHANGI)|7
 [C026621115](https://www.onepa.sg/class/details/c026621115)|28 Apr 2018<br/><br/>to<br/><br/>29 Apr 2018|WATER-VENTURE (PASIR RIS)|4
 [C026626847](https://www.onepa.sg/class/details/c026626847)|12 May 2018<br/><br/>to<br/><br/>13 May 2018|WATER-VENTURE (PASIR RIS)|10
@@ -45,7 +45,7 @@ Course Code | Dates | Venue | Vacancy
 :---: | :---: | :---: | :---: 
 [C026623201](https://www.onepa.sg/class/details/c026623201)|28 Apr 2018<br/><br/>to<br/><br/>28 Apr 2018|WATER-VENTURE (CHANGI)|8
 [C026621324](https://www.onepa.sg/class/details/c026621324)|05 May 2018<br/><br/>to<br/><br/>13 May 2018|WATER-VENTURE (SEMBAWANG)|8
-[C026627428](https://www.onepa.sg/class/details/c026627428)|23 Jun 2018<br/><br/>to<br/><br/>01 Jul 2018|WATER-VENTURE (SEMBAWANG)|8
+[C026627428](https://www.onepa.sg/class/details/c026627428)|23 Jun 2018<br/><br/>to<br/><br/>01 Jul 2018|WATER-VENTURE (SEMBAWANG)|7
 
 Related Links:
 [SCF Syllabus](http://scf.org.sg/menu-parent-courses/menu-parent-recreation-kayaking/menu-parent-personal-stars-award/3-star-award/) &#124; [RP-SCF Handbook](http://scf.org.sg/RC6/hidden_content_scf/uploads/2014/11/RP-SCF-3-Star-Handbook.pdf) &#124; [WV Handbook](https://github.com/davidloke/Paddle-SG/raw/master/handbook/wv-3star-handbook.pdf)
